@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.basecomponent {
+  margin-left: 35%;
+  background-color: #8dabdc;
+  padding: 20px;
+  border: 1px solid black;
+  width: 25%;
+}
+
+.childA {
+  margin-left: 35%;
+  background-color: #fdf2ce;
+  padding: 20px;
+  border: 1px solid black;
+  width: 25%;
+}
+
+.ChildB {
+  margin-left: 35%;
+  background-color: #a8d28c;
+  padding: 20px;
+  border: 1px solid black;
+  width: 25%;
+}

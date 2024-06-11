@@ -1,0 +1,28 @@
+*{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.header {
+  background-color: green;
+  height: 100px;
+}
+.sidenav{
+  background-color: rgb(129, 12, 129);
+  width: 40%;
+  height: 400px;
+}
+.maincontent{
+  background-color: rgb(176, 40, 40);
+  width: 60%;
+}
+.footer{
+  background-color: green;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  height: 100px;
+}
+.midSection{
+  display: flex;
+}
